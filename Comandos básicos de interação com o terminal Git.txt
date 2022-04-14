@@ -1,0 +1,12 @@
+Comandos básicos para interagir com o Git:
+
+->mudar de pasta-> cd/
+->listar as pastas-> dir
+->criar pastas/arquivos-> mkdir
+->deletar pastas/arquivos-> del
+->deletar repositório-> rmdir
+->retornar uma pasta-> cd..
+->limpar terminal-> cls
+->autompletar-> TAB
+->printa de volta um txt-> echo>
+->gerar Cod. de encriptação-> openssl sha1
